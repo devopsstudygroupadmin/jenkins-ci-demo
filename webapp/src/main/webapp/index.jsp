@@ -31,7 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
   <h1> I was here!</h1>
-  <h1> Well come to Jenkins CI!</h1>
 
   
 </form>
