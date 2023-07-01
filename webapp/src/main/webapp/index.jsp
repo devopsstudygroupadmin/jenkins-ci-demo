@@ -29,8 +29,5 @@
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-  <h1>Please welcome Docker!</h1>
-
-  
+  </div> 
 </form>
