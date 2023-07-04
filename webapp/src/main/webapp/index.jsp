@@ -31,5 +31,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
   <h1>Registration for DevOps</h1>
-  <h1>Thank you! Yes11</h1>
+  <h1>Thank you! Yes1</h1>
 </form>
